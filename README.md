@@ -25,7 +25,10 @@ Technologies Used:
 3. View and delete notes anytime
 4. Notes will persist until deleted manually
 
----
+## 📸 Screenshot
 
-Made with 💻 by **Mohan Sarma**
+![Notes App Screenshot1](Screenshot 1.png)
+![Notes App Screenshot2](Screenshot 2.png)
+
+Made by **Mohan Sarma**
 
