@@ -17,7 +17,7 @@ Technologies Used:
 - JavaScript (DOM + localStorage)
 
 🔗 Live Demo:
-[Click here](https://smohansarma.neocities.org/notesapp/)
+[Click here](https://smohansarma.neocities.org/notes/)
 
 📁 How to Use
 1. Click “Add Note” button
