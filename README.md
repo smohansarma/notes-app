@@ -8,7 +8,7 @@ A clean and simple Notes App built using **HTML, CSS, and JavaScript**.
 - Add notes using a popup
 - Delete individual notes
 - Notes are saved using `localStorage` (they stay after refresh!)
-- Fully responsive and mobile-friendly layout
+- Fully responsive in pc and mobile-friendly layout
 
 Technologies Used:
 
