@@ -27,8 +27,8 @@ Technologies Used:
 
 ## 📸 Screenshot
 
-![Notes App Screenshot1](Screenshot 1.png)
-![Notes App Screenshot2](Screenshot 2.png)
+![Notes App Screenshot1](Screenshot1.png)
+![Notes App Screenshot2](Screenshot2.png)
 
 Made by **Mohan Sarma**
 
